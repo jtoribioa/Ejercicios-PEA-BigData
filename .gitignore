@@ -1,0 +1,8 @@
+# ignore generated html files,
+*.html
+
+# ingorar instrucciones Git
+git.txt
+
+# except foo.html which is maintained by hand
+!foo.html
