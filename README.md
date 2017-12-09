@@ -14,7 +14,7 @@ Ejercicios desarrollados en el PEA Big Data &amp; Analytics en DMC
 | Numero         | Carpeta         | Descripción | Curso    |
 | :------------- | :------------- | ----| ----| 
 | 1 | [4.1 Taller 1](./4.1%20Taller%201) | Estadistica inferencial sobre datos financieros. | Python for Analytics |
-| 2 | [6.1 Tarea1](./6.1%20Tarea1) | Realizar un cluster no supervisado de noticias, para identificar las categorias de las noticias. Opcional: realizar scrapping y limpieza de textos. | Métodos No Supervisados |
+| 2 | [6.1 Tarea1](./6.1%20Tarea1) | Realizar un cluster no supervisado que agrupe noticias por categorias, segun el contenido de la noticia. Opcional: realizar scrapping y limpieza de textos. | Métodos No Supervisados |
 | 3 | [7.1 Ejercicio2](./7.1%20Ejercicio2) | Explorando comentarios de la pagina de facebook de Claro. | Métodos Supervisados |
 
 
